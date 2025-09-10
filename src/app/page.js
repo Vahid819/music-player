@@ -1,8 +1,11 @@
 import React from 'react'
+import Music from '@/components/Music'
 
 function page() {
   return (
-    <div>Hello world</div>
+    <div>
+      <Music />
+    </div>
   )
 }
 
